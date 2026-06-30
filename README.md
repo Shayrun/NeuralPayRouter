@@ -24,5 +24,5 @@ scripts/deploy.ts — One-command deployment to Sepolia testnet
 
 In my next Solidity Language Smart Contract project I modify this dApp for use as an employer payroll.
 3. The net pay amount is passed to a smart contract 
-4. The contract distributes payment in USD, BTC, ETH, or other crypto 
+4. The contract distributes payment in USD, with options for convert to crypto as per employee choice, as per laws regarding employer payroll must be in USD however options exist for crypto  
 5. It goes directly to the employee's wallet or bank account — no middleman
